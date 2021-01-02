@@ -13,3 +13,5 @@ Golang, Assembly
 Meus ambientes. 
 
 VsCode, Linux, Discord
+
+[Homem letra](https://github.com/professorjosedeassis/c/blob/master/homem20%letra.gif)
